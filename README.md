@@ -1,1 +1,2 @@
-# Geologist-by-Tirtha-Sasane
+# Geologist
+Geologist Project
